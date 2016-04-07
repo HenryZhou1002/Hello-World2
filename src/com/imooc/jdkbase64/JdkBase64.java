@@ -19,7 +19,7 @@ public class JdkBase64 {
 	
 	/*
 	 * Base64的应用场景：e-mail.密钥，证书文件
-	 * 基于64个字符的编码算法
+	 * 基于64个字符的编码算法。都是encode，decode之类的东西
 	 */
 	
 	private static String src ="imooc security Base64";
